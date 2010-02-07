@@ -1,0 +1,6 @@
+This is a simple Python application to pull the newspaper jpg imges from newseum.org
+
+Edit the script to set the id's of the papers to pull.
+
+Images are stored in the current directory.
+
